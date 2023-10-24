@@ -1,0 +1,8 @@
+logo = """
+   )))
+    (((
+  +-----+
+  | 💗  |] Coffee Vending Machine
+  `====='    
+"""
+
